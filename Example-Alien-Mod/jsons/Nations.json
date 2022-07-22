@@ -1,38 +1,36 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Stratoss",
+		"leaderName": "Flavia Domínguez",
+		"adjective": ["Stratossian"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Stratoss se levantará gracias a ti.",
+		"startIntroPart2": "Usa sabiamente su poder industrial.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Debido a las circunstancias actuales, nos vemos obligados a iniciar hostilidades contra esta nación",
+		"attacked": "Esta guerra no nos debilitará, a ti, en cambio, te destruirá.",
+		"defeated": "Hicimos lo que pudimos, disfruta tu victoria",
+		"introduction": "La nación de Stratoss os saluda.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hola, ¿qué necesitas?",
+		"neutralLetsHearIt": ["Puedes hablar.","¿Qué quieres decir?","Tienes nuestra atención."],
+		"neutralNo": ["No es posible.","No.","No podemos aceptar."],
+		"neutralYes": ["Muy bien.","Un trato aceptable.","Aceptamos."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "¿Qué?",
+		"hateLetsHearIt": ["Habla.","¿Qué quieres?","Procede."],
+		"hateNo": ["No, jamás.","¡Nunca!","Ni pensarlo."],
+		"hateYes": ["Es... aceptable.","Bien.","De acuerdo, por esta vez."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Very well, all that fighting was pointless anyway.",
+		"tradeRequest": "We have a trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [84,255,255],
+		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Valaria","Pross","Nitria","Valia","Midia","Alaria","Lar","Dant","Sild",
+			"Firint","Vrin","Naka","Kopik"]
 	}
 ]
